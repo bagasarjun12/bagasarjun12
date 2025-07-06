@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there🖐  I’m  Bagas<br><br>🔭 I’m currently working on ERP Project<br>👯 I’m looking to collaborate on any website developing project<br>🤝 I’m looking for partnership<br>🌱 I’m currently learning vue.js and react.js<br>💬 Ask me about anything<br>⚡ Fun fact i am a human, so you can contant me :)
+Hi there🖐  I’m  Bagas<br><br>🔭 I’m currently working on ERP Project<br>👯 I’m looking to collaborate on any website developing project<br>🤝 I’m looking for partnership<br>🌱 I’m currently learning vue.js and react.js<br>💬 Ask me about anything<br>⚡ Fun fact i am a human, so you can contant me if you need anything from me :)
 
 
 ## 🌐 Socials:
