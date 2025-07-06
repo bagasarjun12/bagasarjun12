@@ -20,7 +20,7 @@ Hi there🖐  I’m  Bagas<br><br>🔭 I’m currently working on ERP Project<br
 ---
 [![](https://visitcount.itsvg.in/api?id=bagasarjun12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Cute Cat](PASTE_IMAGE_URL_DISINI)
-
+Berikut GIF kucing lucu:
+![Cute Cat]([https://your-image-link.gif](https://media.tenor.com/5BYK-WS0__gAAAAM/cool-fun.gif))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
