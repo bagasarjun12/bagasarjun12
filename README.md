@@ -20,6 +20,7 @@ Hi there🖐  I’m  Bagas<br><br>🔭 I’m currently working on ERP Project<br
 ---
 [![](https://visitcount.itsvg.in/api?id=bagasarjun12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://i.redd.it/kyijbrc7jnh61.gif" width="200" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR0MTdsYTYycXpsaTlta2J5bmYzN3RkOWY1ZzJyNDZkdTNkNzFlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sxhMQe0iPA9a0HouH4/giphy.gif" width="200" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
